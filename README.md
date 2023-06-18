@@ -9,3 +9,4 @@ Network build from:
 
 Configured SSH/TELNET + ACLs.
 DHCP and DNS configurations.
+VLAN subbnetting.
