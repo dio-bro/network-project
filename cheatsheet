@@ -1,0 +1,9 @@
+Switch VLAN configuration:
+#enter in configuration mode
+#create VLAN using
+* vlan N
+* name vlName
+#assign a port to a VLAN
+* int fa0/N
+* switchport mode access
+* switchport access vlan N
