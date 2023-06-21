@@ -10,4 +10,4 @@ Network build from:
 Configured SSH/TELNET + ACLs.
 DHCP and DNS configurations.
 VLAN subbnetting.
-<a href="https://github.com/dio-bro/network-project/blob/main/final_project.pkt" download>link</a>
+<a href="/cheatsheet" download>link</a>
