@@ -10,4 +10,4 @@ Network build from:
 Configured SSH/TELNET + ACLs.
 DHCP and DNS configurations.
 VLAN subbnetting.
-<a href="/cheatsheet" download="asd">link</a>
+<a href="https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png" download>link</a>
